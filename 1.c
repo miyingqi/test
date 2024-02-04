@@ -1,43 +1,30 @@
 #include<stdio.h>
-#include<stdlib.h>
+extern void suiji();
+extern void menu();
+extern void game();
 int main()
 {
-    int line =0;
-    int cishu =0;
-    printf("今天写的代码\n");
-    scanf("%d",&line);
-    while(line<25&&cishu<5)
+    int input = 0;  
+    suiji();
+    do
+    {   
+        menu();
+        printf("请选择\n");
+        scanf("%d",&input);
+        switch (input)
         {
-            cishu=cishu +1;
-            int a =0;
-            int b =25-line;
-            printf("还要努力%d\n",b);
-            printf("努力之后写了多少\n");
-            scanf("%d",&a);
-            line =line +a;
-            printf("今天的代码量%d\n",line);
-            printf("努力次数%d\n",cishu);
+        case 1:
+        printf("开始游戏\n");
+        game();
+            break;
+        case 0:
+            break;
+        default:
+        printf("请重新选择\n");
+            break;
         }
-    if(line>=25&&cishu<5)
-        {
-            printf("感谢你的努力\n");
-        }
-    else
-        {
-            printf("努力不够\n");
-            printf("去挖白薯吧\n");
-        }
-    // char h ;
-    // printf("请按任意键退出***\n");
-    // scanf("%c",&h);
-    // if(h == '\b')
-    // {
-    //     printf("退出\n");
-    // }
-    // else
-    // {
-    //     printf("退出\n");
-    // }
-    system("PAUSE");
+    }
+    while(input);
+    printf("游戏结束！\n");
     return 0;
 }
