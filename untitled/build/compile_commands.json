@@ -1,0 +1,26 @@
+[
+{
+  "directory": "E:/code/qt/untitled/build",
+  "command": "E:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE5COMPAT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\untitled.dir\\untitled_autogen\\mocs_compilation.cpp.obj -c E:\\code\\qt\\untitled\\build\\untitled_autogen\\mocs_compilation.cpp",
+  "file": "E:/code/qt/untitled/build/untitled_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "E:/code/qt/untitled/build",
+  "command": "E:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE5COMPAT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\untitled.dir\\main.cpp.obj -c E:\\code\\qt\\untitled\\main.cpp",
+  "file": "E:/code/qt/untitled/main.cpp",
+  "output": "CMakeFiles/untitled.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/code/qt/untitled/build",
+  "command": "E:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE5COMPAT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\untitled.dir\\widget.cpp.obj -c E:\\code\\qt\\untitled\\widget.cpp",
+  "file": "E:/code/qt/untitled/widget.cpp",
+  "output": "CMakeFiles/untitled.dir/widget.cpp.obj"
+},
+{
+  "directory": "E:/code/qt/untitled/build",
+  "command": "E:\\Qt\\Tools\\mingw1120_64\\bin\\g++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE5COMPAT_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 @CMakeFiles/untitled.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\untitled.dir\\untitled_autogen\\EWIEGA46WW\\qrc_iocn.cpp.obj -c E:\\code\\qt\\untitled\\build\\untitled_autogen\\EWIEGA46WW\\qrc_iocn.cpp",
+  "file": "E:/code/qt/untitled/build/untitled_autogen/EWIEGA46WW/qrc_iocn.cpp",
+  "output": "CMakeFiles/untitled.dir/untitled_autogen/EWIEGA46WW/qrc_iocn.cpp.obj"
+}
+]

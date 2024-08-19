@@ -1,0 +1,9 @@
+E:/code/qt/untitled/build/CMakeFiles/untitled.dir
+E:/code/qt/untitled/build/CMakeFiles/edit_cache.dir
+E:/code/qt/untitled/build/CMakeFiles/rebuild_cache.dir
+E:/code/qt/untitled/build/CMakeFiles/list_install_components.dir
+E:/code/qt/untitled/build/CMakeFiles/install.dir
+E:/code/qt/untitled/build/CMakeFiles/install/local.dir
+E:/code/qt/untitled/build/CMakeFiles/install/strip.dir
+E:/code/qt/untitled/build/CMakeFiles/untitled_autogen_timestamp_deps.dir
+E:/code/qt/untitled/build/CMakeFiles/untitled_autogen.dir

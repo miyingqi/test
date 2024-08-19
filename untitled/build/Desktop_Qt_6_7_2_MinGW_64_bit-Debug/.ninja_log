@@ -1,0 +1,12 @@
+# ninja log v6
+18	133	7452188586467453	untitled_autogen/timestamp	9b191d59f9af922
+348	1655	7452099885443396	CMakeFiles/untitled.dir/untitled_autogen/mocs_compilation.cpp.obj	e312f07f022c15d6
+18	133	7452188586467453	untitled_autogen/mocs_compilation.cpp	9b191d59f9af922
+18	133	7452188586467453	E:/code/qt/untitled/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/mocs_compilation.cpp	9b191d59f9af922
+18	133	7452188586467453	E:/code/qt/untitled/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/timestamp	9b191d59f9af922
+287	325	7449752421082711	E:/code/qt/untitled/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/untitled_autogen/EWIEGA46WW/qrc_iocn.cpp	89cd5418d6435fcd
+287	325	7449752421082711	untitled_autogen/EWIEGA46WW/qrc_iocn.cpp	89cd5418d6435fcd
+355	420	7452099885503369	CMakeFiles/untitled.dir/untitled_autogen/EWIEGA46WW/qrc_iocn.cpp.obj	97283797b7f49d57
+351	1654	7452099885463542	CMakeFiles/untitled.dir/main.cpp.obj	2eef8c66fef9edcc
+353	2059	7452099885488662	CMakeFiles/untitled.dir/widget.cpp.obj	2a4c39fbeb6cc9cf
+2059	2186	7452099902545725	untitled.exe	7b3956bfe52e61c6

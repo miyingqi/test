@@ -1,0 +1,24 @@
+{
+    "cmake.generator": "MinGW Makefiles",
+    "cmake.debugConfig": {
+        "environment": [
+            {
+                "name": "Path",
+                "value": "${env:Path};E:\\Qt\\6.7.2\\mingw_64\\bin"
+            }
+        ]
+    },
+    "files.associations": {
+        "qapplication": "cpp",
+        "qmainwindow": "cpp",
+        "qwidget": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "qfiledialog": "cpp",
+        "qtextcodec": "cpp",
+        "string": "cpp",
+        "qtextedit": "cpp"
+    },
+    "cmake.cmakePath": "E:\\Qt\\Tools\\CMake_64\\bin\\cmake.exe",
+    "qtConfigure.qtKitDir": "E:/Qt/6.7.2/mingw_64"
+}

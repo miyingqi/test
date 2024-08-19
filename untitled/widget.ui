@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Widget</class>
+ <widget class="QWidget" name="Widget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>560</width>
+    <height>635</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>记事本</string>
+  </property>
+  <property name="windowIcon">
+   <iconset resource="iocn.qrc">
+    <normaloff>:/icon/2.png</normaloff>:/icon/2.png</iconset>
+  </property>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>551</width>
+     <height>591</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="QUAN">
+    <item>
+     <widget class="QWidget" name="ding" native="true">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>50</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(134, 134, 134);</string>
+      </property>
+      <widget class="QWidget" name="layoutWidget">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>0</y>
+         <width>549</width>
+         <height>52</height>
+        </rect>
+       </property>
+       <layout class="QHBoxLayout" name="A">
+        <item>
+         <widget class="QPushButton" name="A1">
+          <property name="minimumSize">
+           <size>
+            <width>35</width>
+            <height>35</height>
+           </size>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QPushButton{border-image: url(:/icon/3.png);}
+
+QPushButton:hover{border-image: url(:/icon/1.png)}
+QPushButton:pressed{border-image: url(:/icon/5.png)}
+</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="A2">
+          <property name="minimumSize">
+           <size>
+            <width>35</width>
+            <height>35</height>
+           </size>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QPushButton{border-image: url(:/icon/7.png)}
+
+
+QPushButton:hover{border-image: url(:/icon/8.png)}
+QPushButton:pressed{border-image: url(:/icon/6.png)}</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QPushButton" name="A3">
+          <property name="minimumSize">
+           <size>
+            <width>35</width>
+            <height>35</height>
+           </size>
+          </property>
+          <property name="styleSheet">
+           <string notr="true">QPushButton{border-image: url(:/icon/4.png);}
+QPushButton:hover{border-image: url(:/icon/1.png);}
+QPushButton:pressed{border-image: url(:/icon/5.png);}
+
+
+</string>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <spacer name="A_AA">
+          <property name="orientation">
+           <enum>Qt::Orientation::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+    <item>
+     <widget class="QTextEdit" name="textEdit"/>
+    </item>
+    <item>
+     <widget class="QWidget" name="wei" native="true">
+      <property name="minimumSize">
+       <size>
+        <width>0</width>
+        <height>60</height>
+       </size>
+      </property>
+      <property name="styleSheet">
+       <string notr="true">background-color: rgb(134, 134, 134);</string>
+      </property>
+      <widget class="QWidget" name="layoutWidget">
+       <property name="geometry">
+        <rect>
+         <x>0</x>
+         <y>20</y>
+         <width>541</width>
+         <height>23</height>
+        </rect>
+       </property>
+       <layout class="QHBoxLayout" name="B_B">
+        <item>
+         <spacer name="horizontalSpacer_2">
+          <property name="orientation">
+           <enum>Qt::Orientation::Horizontal</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>40</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+        <item>
+         <widget class="QLabel" name="label">
+          <property name="minimumSize">
+           <size>
+            <width>50</width>
+            <height>0</height>
+           </size>
+          </property>
+          <property name="text">
+           <string/>
+          </property>
+         </widget>
+        </item>
+        <item>
+         <widget class="QComboBox" name="chose_a">
+          <item>
+           <property name="text">
+            <string>UTF-8</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>UTF-16</string>
+           </property>
+          </item>
+          <item>
+           <property name="text">
+            <string>GBK</string>
+           </property>
+          </item>
+         </widget>
+        </item>
+        <item>
+         <spacer name="horizontalSpacer_3">
+          <property name="orientation">
+           <enum>Qt::Orientation::Horizontal</enum>
+          </property>
+          <property name="sizeType">
+           <enum>QSizePolicy::Policy::Fixed</enum>
+          </property>
+          <property name="sizeHint" stdset="0">
+           <size>
+            <width>30</width>
+            <height>20</height>
+           </size>
+          </property>
+         </spacer>
+        </item>
+       </layout>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+ </widget>
+ <resources>
+  <include location="iocn.qrc"/>
+ </resources>
+ <connections/>
+</ui>

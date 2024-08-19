@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "E:/code/qt/untitled/build/untitled_autogen",
+	"CMAKE_BINARY_DIR" : "E:/code/qt/untitled/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/code/qt/untitled/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/code/qt/untitled",
+	"CMAKE_SOURCE_DIR" : "E:/code/qt/untitled",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "E:/code/qt/untitled/build/untitled_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/code/qt/untitled/icon/2.png",
+		"E:/code/qt/untitled/icon/3.png",
+		"E:/code/qt/untitled/icon/4.png",
+		"E:/code/qt/untitled/icon/7.png",
+		"E:/code/qt/untitled/icon/6.png",
+		"E:/code/qt/untitled/icon/1.png",
+		"E:/code/qt/untitled/icon/8.png",
+		"E:/code/qt/untitled/icon/5.png"
+	],
+	"LOCK_FILE" : "E:/code/qt/untitled/build/CMakeFiles/untitled_autogen.dir/AutoRcc_iocn_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "iocn" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_iocn.cpp",
+	"RCC_EXECUTABLE" : "E:/Qt/6.7.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/code/qt/untitled/build/CMakeFiles/untitled_autogen.dir/AutoRcc_iocn_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/code/qt/untitled/iocn.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}
