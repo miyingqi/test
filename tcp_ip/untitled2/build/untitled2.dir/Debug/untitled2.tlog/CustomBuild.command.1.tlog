@@ -1,0 +1,22 @@
+^E:\CODE\QT\UNTITLED2\BUILD\CMAKEFILES\439B5B9E3E4FF20D7143F21FEA58806A\AUTOUIC_(CONFIG).STAMP.RULE
+setlocal
+cd E:\code\qt\untitled2\build
+if %errorlevel% neq 0 goto :cmEnd
+E:
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\CODE\QT\UNTITLED2\CMAKELISTS.TXT
+setlocal
+"E:\Program Files\CMake\bin\cmake.exe" -SE:/code/qt/untitled2 -BE:/code/qt/untitled2/build --check-stamp-file E:/code/qt/untitled2/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\code\qt\untitled2\build\untitled2_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\qt\untitled2\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\qt\untitled2\widget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\qt\untitled2\Socket.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\qt\untitled2\qthead.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\qt\untitled2\build\untitled2_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\qt\untitled2\build\untitled2_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\code\qt\untitled2\build\untitled2_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\code\qt\untitled2\widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\code\qt\untitled2\Socket.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\code\qt\untitled2\qthead.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\code\qt\untitled2\build\untitled2_autogen\include_Debug\ui_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\code\qt\untitled2\build\untitled2_autogen\include_Release\ui_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\code\qt\untitled2\build\untitled2_autogen\include_MinSizeRel\ui_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\code\qt\untitled2\build\untitled2_autogen\include_RelWithDebInfo\ui_widget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\code\qt\untitled2\build\CMakeFiles\439b5b9e3e4ff20d7143f21fea58806a\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\code\qt\untitled2\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\code\qt\untitled2\widget.ui" />
+    <None Include="E:\code\qt\untitled2\build\untitled2_autogen\autouic_Debug.stamp" />
+    <None Include="E:\code\qt\untitled2\build\untitled2_autogen\autouic_Release.stamp" />
+    <None Include="E:\code\qt\untitled2\build\untitled2_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="E:\code\qt\untitled2\build\untitled2_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5B5B1C52-757A-3FEA-B0DD-01524EE96BFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{4140E1BF-B412-34AF-BFD9-C9D5DDD3F1F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{3E6EAFA6-80E8-3474-AC64-A2470A31D720}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

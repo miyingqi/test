@@ -1,0 +1,10 @@
+^E:\CODE\QT\UNTITLED2\BUILD\CMAKEFILES\835C2C6A843A8956192C18546BF4029E\GENERATE.STAMP.RULE
+setlocal
+"E:\Program Files\CMake\bin\cmake.exe" -SE:/code/qt/untitled2 -BE:/code/qt/untitled2/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/code/qt/untitled2/build/untitled2.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

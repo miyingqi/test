@@ -1,0 +1,8 @@
+E:/code/qt/untitled2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-release/CMakeFiles/untitled2.dir
+E:/code/qt/untitled2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-release/CMakeFiles/edit_cache.dir
+E:/code/qt/untitled2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-release/CMakeFiles/rebuild_cache.dir
+E:/code/qt/untitled2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-release/CMakeFiles/list_install_components.dir
+E:/code/qt/untitled2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-release/CMakeFiles/install.dir
+E:/code/qt/untitled2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-release/CMakeFiles/install/local.dir
+E:/code/qt/untitled2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-release/CMakeFiles/untitled2_autogen_timestamp_deps.dir
+E:/code/qt/untitled2/build/Desktop_Qt_6_7_2_MSVC2019_64bit-release/CMakeFiles/untitled2_autogen.dir
